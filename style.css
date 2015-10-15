@@ -1,0 +1,33 @@
+body{
+font-family:Sans-serif;
+background-color : #fffff;
+color: #2f2f2f;
+margin: 0 auto;
+width:600px;
+text-align:center;
+}
+
+h1{
+color:#e67e22;
+}
+h2{
+color:#3498db;
+}
+ul{
+list-style:none;
+}
+li{
+display:inline;
+margin-left:10px;
+
+}
+a{
+color:#2980b9;
+}
+a.now{
+color:#e74c3c;
+}
+footer{
+margin-top:20px;
+margin-bottom:20px;
+}
